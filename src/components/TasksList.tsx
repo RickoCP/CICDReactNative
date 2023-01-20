@@ -112,7 +112,7 @@ export const TasksList = () => {
 				{tasks?.length === 0 ? (
 					<Center>
 						<Text color="muted.300" fontSize="25" textAlign="center">
-							No tasks yet! Add one below
+							No tasks yet! Add one below tes
 						</Text>
 					</Center>
 				) : filteredTasks?.length === 0 ? (
